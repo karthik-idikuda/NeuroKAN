@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+pyarrow
+numpy
+matplotlib
+scipy
+opencv-python-headless
+torch
+torchvision
+captum
+scikit-learn
+shap
+joblib
+plotly

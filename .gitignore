@@ -1,0 +1,34 @@
+# Models
+*.pth
+*.pt
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Data
+*.parquet
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
+
+# Build
+build/
+dist/
+*.egg-info/
